@@ -12,14 +12,11 @@ Account Settings: Manage your profile and preferences through the settings.
 # Screenshots
 
 ![Screenshot from 2024-07-14 13-19-13](https://github.com/user-attachments/assets/0178e012-38d6-44c2-b83b-20ae42d440ee)
-
 ![Screenshot from 2024-07-14 13-20-29](https://github.com/user-attachments/assets/319cacd3-3f05-41ac-80e6-4d062c4192b7)
-
-
 ![Screenshot from 2024-07-14 13-21-16](https://github.com/user-attachments/assets/cab2271d-f2c5-4762-9ba0-499b286eeec3)
 ![Screenshot from 2024-07-14 13-22-44](https://github.com/user-attachments/assets/9ab02bb3-4ea3-45ab-b025-7b7dc2e0b00c)
+![6](https://github.com/user-attachments/assets/71d77fb6-48f6-4d37-96dd-733042d5d9a2)
 ![Screenshot from 2024-07-14 13-23-03](https://github.com/user-attachments/assets/cbef2ff2-2206-4a29-9a40-14b0505d1ec8)
-
 ![Screenshot from 2024-07-14 13-23-58](https://github.com/user-attachments/assets/3691f137-e7f7-42f6-8692-695a0a39dddb)
 ![Screenshot from 2024-07-14 13-24-56](https://github.com/user-attachments/assets/954f874f-b8b1-4c92-a619-8ccc0a5685c7)
 
