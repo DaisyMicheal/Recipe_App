@@ -15,8 +15,9 @@ Account Settings: Manage your profile and preferences through the settings.
 ![7](https://github.com/user-attachments/assets/e83b77f5-28b0-43cd-b561-256ff4321247)
 ![6](https://github.com/user-attachments/assets/9cf28d79-793b-4a5d-b1a7-9f115268c05d)
 ![4](https://github.com/user-attachments/assets/0038e40f-c881-455c-a3fb-d512fb754c76)
-![3](https://github.com/user-attachments/assets/e91aedfe-0987-4ff6-a51e-f527c1c8a526)
 ![2](https://github.com/user-attachments/assets/c6dab8a8-d722-42cd-8407-a161dff54450)
+![3](https://github.com/user-attachments/assets/e91aedfe-0987-4ff6-a51e-f527c1c8a526)
+
 
 
 
