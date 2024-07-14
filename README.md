@@ -1,4 +1,4 @@
-# Recipe App
+![Screenshot from 2024-07-14 13-23-03](https://github.com/user-attachments/assets/366d58f4-ca01-4776-8130-f024bc713dc8)![Screenshot from 2024-07-14 13-22-44](https://github.com/user-attachments/assets/c14575d7-f1d0-432b-8ab4-55a315e8a861)![Screenshot from 2024-07-14 13-22-20](https://github.com/user-attachments/assets/9c7dbbc1-78c6-486d-8405-c0393c231ba1)# Recipe App
 Welcome to the Recipe App, your ultimate companion for discovering, saving, and cooking delicious recipes!
 
 # Features
@@ -9,14 +9,16 @@ Save Favorites: Save your favorite recipes for quick access later.
 Watch Recipe Videos: Enhance your cooking experience with instructional recipe videos.
 Account Settings: Manage your profile and preferences through the settings.
 
-# Screenshots
-![1](https://github.com/user-attachments/assets/eaa8dd64-529e-4558-a652-a72ee5426ed5)
-![8](https://github.com/user-attachments/assets/1efde468-85e4-435b-a595-e114a1a55c52)
-![7](https://github.com/user-attachments/assets/e83b77f5-28b0-43cd-b561-256ff4321247)
-![6](https://github.com/user-attachments/assets/9cf28d79-793b-4a5d-b1a7-9f115268c05d)
-![4](https://github.com/user-attachments/assets/0038e40f-c881-455c-a3fb-d512fb754c76)
-![2](https://github.com/user-attachments/assets/c6dab8a8-d722-42cd-8407-a161dff54450)
-![3](https://github.com/user-attachments/assets/e91aedfe-0987-4ff6-a51e-f527c1c8a526)
+# Screenshots![Screenshot from 2024-07-14 13-21-16](https://github.com/user-attachments/assets/8b207b84-dd26-428e-b290-0d6223803466)
+![Screenshot from 2024-07-14 13-20-29](https://github.com/user-attachments/assets/dae6d73e-9284-4c07-86d1-ea4ec1415b9a)
+![Screenshot from 2024-07-14 13-19-13](https://github.com/user-attachments/assets/b8fb67b1-6d2b-4148-85ea-a56c2403221b)
+
+
+![Screenshot from 2024-07-14 13-23-34](https://github.com/user-attachments/assets/066e57cf-5258-472a-b0f6-bba3bded8153)![Screenshot from 2024-07-14 13-24-56](https://github.com/user-attachments/assets/dd36b4d0-5493-4fc2-bf55-f0b270a75f7d)
+![Screenshot from 2024-07-14 13-24-43](https://github.com/user-attachments/assets/4a65f9a4-80f4-4eff-8d8d-399bcc2efd81)
+![Screenshot from 2024-07-14 13-24-15](https://github.com/user-attachments/assets/addbe31f-7290-4ef0-a9fc-1da5f65761f3)
+![Screenshot from 2024-07-14 13-23-58](https://github.com/user-attachments/assets/2dc6a60e-c909-4729-b954-71a5e2ead5f0)
+
 
 
 
