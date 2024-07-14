@@ -1,4 +1,4 @@
-![Screenshot from 2024-07-14 13-23-03](https://github.com/user-attachments/assets/366d58f4-ca01-4776-8130-f024bc713dc8)![Screenshot from 2024-07-14 13-22-44](https://github.com/user-attachments/assets/c14575d7-f1d0-432b-8ab4-55a315e8a861)![Screenshot from 2024-07-14 13-22-20](https://github.com/user-attachments/assets/9c7dbbc1-78c6-486d-8405-c0393c231ba1)# Recipe App
+# Recipe App
 Welcome to the Recipe App, your ultimate companion for discovering, saving, and cooking delicious recipes!
 
 # Features
@@ -9,21 +9,24 @@ Save Favorites: Save your favorite recipes for quick access later.
 Watch Recipe Videos: Enhance your cooking experience with instructional recipe videos.
 Account Settings: Manage your profile and preferences through the settings.
 
-# Screenshots![Screenshot from 2024-07-14 13-21-16](https://github.com/user-attachments/assets/8b207b84-dd26-428e-b290-0d6223803466)
-![Screenshot from 2024-07-14 13-20-29](https://github.com/user-attachments/assets/dae6d73e-9284-4c07-86d1-ea4ec1415b9a)
-![Screenshot from 2024-07-14 13-19-13](https://github.com/user-attachments/assets/b8fb67b1-6d2b-4148-85ea-a56c2403221b)
+# Screenshots
+
+![Screenshot from 2024-07-14 13-19-13](https://github.com/user-attachments/assets/0178e012-38d6-44c2-b83b-20ae42d440ee)
+
+![Screenshot from 2024-07-14 13-20-29](https://github.com/user-attachments/assets/319cacd3-3f05-41ac-80e6-4d062c4192b7)
 
 
-![Screenshot from 2024-07-14 13-23-34](https://github.com/user-attachments/assets/066e57cf-5258-472a-b0f6-bba3bded8153)![Screenshot from 2024-07-14 13-24-56](https://github.com/user-attachments/assets/dd36b4d0-5493-4fc2-bf55-f0b270a75f7d)
-![Screenshot from 2024-07-14 13-24-43](https://github.com/user-attachments/assets/4a65f9a4-80f4-4eff-8d8d-399bcc2efd81)
-![Screenshot from 2024-07-14 13-24-15](https://github.com/user-attachments/assets/addbe31f-7290-4ef0-a9fc-1da5f65761f3)
-![Screenshot from 2024-07-14 13-23-58](https://github.com/user-attachments/assets/2dc6a60e-c909-4729-b954-71a5e2ead5f0)
+![Screenshot from 2024-07-14 13-21-16](https://github.com/user-attachments/assets/cab2271d-f2c5-4762-9ba0-499b286eeec3)
+![Screenshot from 2024-07-14 13-22-44](https://github.com/user-attachments/assets/9ab02bb3-4ea3-45ab-b025-7b7dc2e0b00c)
+![Screenshot from 2024-07-14 13-23-03](https://github.com/user-attachments/assets/cbef2ff2-2206-4a29-9a40-14b0505d1ec8)
 
-
-
+![Screenshot from 2024-07-14 13-23-58](https://github.com/user-attachments/assets/3691f137-e7f7-42f6-8692-695a0a39dddb)
+![Screenshot from 2024-07-14 13-24-56](https://github.com/user-attachments/assets/954f874f-b8b1-4c92-a619-8ccc0a5685c7)
 
 
 # Getting Started
+
+
 
 # Prerequisites
 Make sure you have Flutter installed. For installation instructions, visit Flutter.dev.
