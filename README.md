@@ -101,13 +101,13 @@ Contributions are welcome! If you want to contribute to this project, please fol
    ```
 6. **Create a new Pull Request.**
 
----
+
 
 ### License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
+
 
 ### Acknowledgments
 
